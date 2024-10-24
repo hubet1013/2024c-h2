@@ -1,0 +1,16 @@
+#include <iostream>
+
+int main()
+{
+	std::cout<<"Hello World";
+
+    printf("hubert !");
+    printf("hubert\n3：\\hubert !");
+    printf("hubert\n3：\\hubert !");
+    printf("hubert\n3：\\hubert !");
+    printf("hubert\n3：\\hubert !");
+    printf("hubert\n3：\\hubert !");
+    printf("hubert\n3：\\hubert !");
+    printf("hubert\n3：\\hubert !");
+	return 0;
+}
