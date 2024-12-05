@@ -1,0 +1,12 @@
+#include <iostream>
+int h(){
+    printf("hello world");
+    return 0;
+}
+int main()
+{
+    h();
+    h();
+    
+    return 0;
+}
