@@ -1,0 +1,21 @@
+#include <iostream>
+
+int main()
+{
+    int a1,a2,a3,a4;
+    //int a[4];
+    printf("piease input a integer");
+    scanf("%d",&a1);
+    printf("piease input a integer");
+    scanf("%d",&a2);
+    printf("piease input a integer");
+    scanf("%d",&a3);
+    printf("piease input a integer");
+    scanf("%d",&a4);
+    printf("number a1 = %d",a1);
+    printf("number a2 = %d",a2);
+    printf("number a3 = %d",a3);
+    printf("number a4 = %d",a4);
+
+    return 0;
+}
